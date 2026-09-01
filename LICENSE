@@ -1,1 +1,111 @@
+TXP LICENSE
+Version 1.0
 
+Copyright (c) 2026 NSCTN / The X Project (TXP)
+
+1. DEFINITIONS
+
+"Software" means the source code, binaries, documentation, assets,
+configuration files, and other materials distributed with this project.
+
+"TXP" means The X Project and its associated projects, components,
+ecosystem, and original works.
+
+"Author" means NSCTN and/or the respective copyright holder of the
+Software.
+
+2. COPYRIGHT
+
+The Software is protected by applicable copyright laws.
+
+All rights not expressly granted by this License are reserved by the
+Author.
+
+3. VIEWING THE SOURCE
+
+The source code may be publicly accessible for inspection, learning,
+research, and discussion.
+
+Public availability of the source code does NOT, by itself, grant
+permission to copy, modify, redistribute, publish, sell, sublicense,
+or incorporate the Software into another project.
+
+4. PERMITTED USE
+
+Unless otherwise stated by the Author, you may:
+
+- View and study the source code.
+- Use the source code for personal learning and research.
+- Discuss the Software and its implementation.
+- Create private modifications for personal experimentation.
+
+5. RESTRICTIONS
+
+Without explicit permission from the Author, you may NOT:
+
+- Redistribute the Software or substantial portions of it.
+- Publish modified versions of the Software.
+- Sell the Software or modified versions of it.
+- Claim the Software or its substantial portions as your own.
+- Remove copyright or license notices.
+- Use TXP branding, names, logos, or trademarks to imply official
+  endorsement.
+- Create a competing distribution based substantially on the Software.
+
+6. MODIFICATIONS
+
+Private modifications are permitted for experimentation.
+
+Distribution of modified versions requires explicit written permission
+from the Author unless a separate component-specific license states
+otherwise.
+
+7. CONTRIBUTIONS
+
+Contributions submitted to the project do not automatically transfer
+copyright ownership to TXP.
+
+The contribution terms applicable to a particular repository or
+component must be followed.
+
+8. TXP BRANDING
+
+"TXP", "The X Project", "mX", "pX", "cX", "XLoader", "Kernel24",
+"CloudR", and associated logos and branding are not automatically
+licensed for use merely because the corresponding source code is
+available.
+
+Permission to use the Software does not constitute permission to
+represent a project, product, or service as officially affiliated with
+TXP.
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE,
+MODIFICATION, OR DISTRIBUTION OF THE SOFTWARE TO THE MAXIMUM EXTENT
+PERMITTED BY LAW.
+
+10. TERMINATION
+
+Any rights granted under this License terminate automatically if you
+violate its terms.
+
+Upon termination, you must cease the activities that were permitted
+under this License and comply with applicable copyright law.
+
+11. OTHER LICENSES
+
+Individual files, libraries, dependencies, or components may contain
+their own licenses.
+
+Where a component is subject to another license, that license governs
+that component to the extent required by its terms.
+
+12. CONTACT
+
+For permissions not granted by this License, contact the Author.
+
+END OF TXP LICENSE
