@@ -15,10 +15,11 @@ As a general rule, the latest development version or build of a component should
 For example:
 
 Component| Version / Build
-mX| Latest available development build
-cX| Latest available development version
-XLoader| Latest available development version
-Kernel24| Latest available development version
+
+mX - Latest available development build
+cX - Latest available development version
+XLoader - Latest available development version
+Kernel24 - Latest available development version
 
 Older development builds may no longer receive fixes.
 
