@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width="128" alt="TXP logo"/>
+<img src="asset/logo.png" width="128" alt="TXP logo"/>
 
 # The X Project
 
