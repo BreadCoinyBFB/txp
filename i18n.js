@@ -1,5 +1,5 @@
-// создано docs/readme/gen_site.py — не править вручную
-window.AEMU_I18N = {
+
+window.TXP_I18N = {
  "langs": [
   {
    "code": "en",
